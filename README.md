@@ -62,9 +62,7 @@ Sieć została podzielona na kilka obszarów OSPF:
 
 ## 🖼️ Schemat topologii
 
-```md
 ![Topologia OSPF](screenshots/gns3-topology.png)
-```
 
 Docelowo screen topologii znajduje się tutaj:
 
