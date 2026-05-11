@@ -142,9 +142,6 @@ configs/
 
 Dodatkowa dokumentacja znajduje się w katalogu:
 
-```txt
-docs/ :
-```
 - [`docs/addressing-plan.md`](docs/addressing-plan.md)
 - [`docs/ospf-area-design.md`](docs/ospf-area-design.md)
 - [`docs/failover-scenario.md`](docs/failover-scenario.md)
