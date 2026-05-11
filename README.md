@@ -123,12 +123,6 @@ Pełny opis scenariusza znajduje się w pliku:
 
 Konfiguracje routerów znajdują się w katalogu:
 
-```txt
-configs/
-```
-
-## Pliki konfiguracyjne:
-
 - [`configs/R1.txt`](configs/R1.txt)
 - [`configs/R2.txt`](configs/R2.txt)
 - [`configs/R3.txt`](configs/R3.txt)
