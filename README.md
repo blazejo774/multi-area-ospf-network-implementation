@@ -88,9 +88,7 @@ W projekcie wykorzystano adresację punkt-punkt `/30` dla każdego linku router-
 
 Pełna tabela adresacji znajduje się w pliku:
 
-```txt
-docs/addressing-plan.md
-```
+[`docs/addressing-plan.md`](docs/addressing-plan.md)
 
 ## 🔁 Scenariusz failover
 
@@ -119,9 +117,7 @@ Bezpośredni link R6 - R8 został skonfigurowany jako `backup link` poprzez usta
 
 Pełny opis scenariusza znajduje się w pliku:
 
-```txt
-docs/failover-scenario.md
-```
+- [`docs/failover-scenario.md`](docs/failover-scenario.md)
 
 ## ⚙️ Konfiguracje routerów
 
