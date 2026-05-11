@@ -162,6 +162,10 @@ traceroute 192.168.38.2
 ping 192.168.38.2
 ```
 
+Pełny opis testów oraz screeny z konsoli i Wireshark znajdują się w katalogu:
+
+- [`verification/`](verification/)
+
 ## 📁 Struktura repozytorium
 
 ```txt
