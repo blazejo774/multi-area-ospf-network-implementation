@@ -131,35 +131,29 @@ Konfiguracje routerów znajdują się w katalogu:
 configs/
 ```
 
-Pliki konfiguracyjne:
+## Pliki konfiguracyjne:
 
-```txt
-configs/R1.txt
-configs/R2.txt
-configs/R3.txt
-configs/R4.txt
-configs/R5.txt
-configs/R6.txt
-configs/R7.txt
-configs/R8.txt
-```
+- [`configs/R1.txt`](configs/R1.txt)
+- [`configs/R2.txt`](configs/R2.txt)
+- [`configs/R3.txt`](configs/R3.txt)
+- [`configs/R4.txt`](configs/R4.txt)
+- [`configs/R5.txt`](configs/R5.txt)
+- [`configs/R6.txt`](configs/R6.txt)
+- [`configs/R7.txt`](configs/R7.txt)
+- [`configs/R8.txt`](configs/R8.txt)
 
 ## 📚 Dokumentacja
 
 Dodatkowa dokumentacja znajduje się w katalogu:
 
 ```txt
-docs/
+docs/ :
 ```
+- [`docs/addressing-plan.md`](docs/addressing-plan.md)
+- [`docs/ospf-area-design.md`](docs/ospf-area-design.md)
+- [`docs/failover-scenario.md`](docs/failover-scenario.md)
+- [`docs/Referat_OSPF_Osowski.docx`](docs/Referat_OSPF_Osowski.docx)
 
-Najważniejsze pliki:
-
-```txt
-docs/addressing-plan.md
-docs/ospf-area-design.md
-docs/failover-scenario.md
-docs/Referat_OSPF_Osowski.docx
-```
 
 ## ✅ Weryfikacja działania
 
@@ -221,7 +215,7 @@ Projekt pokazuje praktyczne umiejętności z zakresu:
 - pracy z Cisco IOS,
 - konfiguracji OSPFv2,
 - projektowania sieci multi-area OSPF,
-- adresacji IPv4 i podsieci `/30` (czyli CIDR),
+- adresacji IPv4 i podsieci `/30` (CIDR),
 - analizy `routing table`,
 - manipulacji `OSPF cost`,
 - projektowania ścieżek zapasowych,
